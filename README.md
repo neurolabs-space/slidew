@@ -23,13 +23,14 @@ Welcome to **Slidew**, a Montreal-based edtech tool built by Neurolabs to boost 
 
 Try Slidew now: [neurolabs.space/slidew](https://neurolabs.space/slidew)
 
-🤝 Contribute
+## 🤝 Contribute  
 We welcome educators, developers, and designers to collaborate. Open a pull request or start a discussion!
 
-🔗 Related Repos
-Sentence Unscrambler App
+## 🔗 Related Repos  
+- [Sentence Unscrambler App](https://github.com/neurolabs/sentence-unscrambler)  
+- [Site Status](https://github.com/neurolabs/site-status)
 
-📍 About Neurolabs
+## 📍 About Neurolabs  
 Neurolabs is a Montreal-based startup building AI-powered tools for bilingual classrooms and cognitive learning.
 
 ## 📦 Installation
